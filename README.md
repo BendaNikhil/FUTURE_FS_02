@@ -1,5 +1,4 @@
 📊 Mini CRM – Lead Management Dashboard
-<p align="center"> <img src="assets/preview.png" alt="Mini CRM Dashboard Preview" width="100%" /> </p> <p align="center"> <b>A modern React-based Mini CRM application for managing leads, tracking conversions, and monitoring business performance.</b> </p>
 
 🧠 Project Overview
 
@@ -104,3 +103,4 @@ Benda Nikhil
 ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
+
